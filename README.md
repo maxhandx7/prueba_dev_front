@@ -21,7 +21,7 @@ cd frontend
 npm install
 7. configura las variables de entorno para la conexión (el archivo .env):
 
-REACT_APP_API_URL=http://localhost:(puerto_del_backend)
+REACT_APP_API_URL=http://localhost:5000
 
 8. ejecuta el servidor
 npm start
